@@ -1,6 +1,6 @@
 # flick_clips
 
-A new Flutter project.
+A flutter based application where users can share video clips, and scroll with just a flick of finger and many other features.
 
 ## Features
 - Authentication with Email & Password
