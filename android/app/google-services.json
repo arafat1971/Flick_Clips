@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379890260215",
+    "project_id": "flick-clips",
+    "storage_bucket": "flick-clips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379890260215:android:8019fcb0d92372817cdbf2",
+        "android_client_info": {
+          "package_name": "com.example.flick_clips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379890260215-ermmjmgsufigmtf2e4ocramv1s0g0qt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHLb0SPNL6sbKJ91txWcAC_qZwccXa8Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379890260215-ermmjmgsufigmtf2e4ocramv1s0g0qt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
